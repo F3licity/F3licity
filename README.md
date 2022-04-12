@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Python DevOps engineer with studies in Data Science.
+I am a Python DevOps engineer with studies in Data Science on Biological data aka Bioinformatics.
 My passion about quality, as well as my keen eye for detail, is what lead
 me to Testing automation and Quality Assurance. 
 - 🔭 I’m currently working on Testing the [Humanitec Platform](https://humanitec.com/) 😄
-- 🌱 I’m currently learning about Playwright
+- 🌱 I’m getting better on writing [Playwright](https://playwright.dev/) tests.
 - 👀 I’m interested in Security & SecDevOps.
