@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> [!IMPORTANT] 
 > I am up for my next challenge! Do you have an opportunity for me? Please get in touch!
 
 <div align="center">Software Quality Assurance | MSc Bioinformatics | Product Management | Life Sciences </div>
@@ -33,7 +32,7 @@ work 32 hours hybrid in order to balance my work & family life.
 - ✅ I’m a Software QA Engineer & Python Developer
 - 🌱 I’m getting better on Security & SecDevOps
 - 👪 I care about Team Happiness & Product Management
-- 🔥 I'm passionate about Software that support Research && Personalised treatment
+- 🔥 I'm passionate about Software that supports Research & Personalised treatment
 - ⚡ Fun fact: my name in your language is Ευτυχία, Blijdschap, Fericire, Onnellisuus, Lykke, Fröhlichkeit 
 
 <div id="badges">
