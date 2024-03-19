@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 I am a Python SecDevOps engineer with studies in Data Science.
 My passion about quality, as well as my keen eye for detail, is what
 lead me to Testing automation and Quality Assurance.
-My calling is to develop software meant to aid our society, like software that support Research & Personalised treatment.
+My calling is to develop software meant to aid our society, like software that supports Research & Personalised treatment.
 I am interested in product management and how to move forward as a team. Have you
 heard of the ’glue’ in a team? That’s me! I am team player and for me
 team-happiness is a very important aspect for my daily work. I prefer to
