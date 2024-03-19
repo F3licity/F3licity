@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+> [!IMPORTANT]
 > I am up for my next challenge! Do you have an opportunity for me? Please get in touch!
 
 <div align="center">Software Quality Assurance | MSc Bioinformatics | Product Management | Life Sciences </div>
