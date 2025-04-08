@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">Software Quality Assurance | MSc Bioinformatics | Product Management | Life Sciences </div>
 
 ### About Me :
-I am a Python SecDevOps engineer with studies in Data Science.
+I am a Python SDET with studies in Data Science.
 My passion about quality, as well as my keen eye for detail, is what
 lead me to Testing automation and Quality Assurance.
 My calling is to develop software meant to aid our society, like software that supports Research & Personalised treatment.
